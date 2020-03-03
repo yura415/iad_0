@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7ebc564266f777a0019f7471dc7682dc",
-    "url": "./assets/images/letters/character_rus_3.json"
+    "revision": "b45318f18b86db69eb8d2561e9219368",
+    "url": "./assets/images/letters/character_rus_2.json"
   },
   {
-    "revision": "426f3f40ca7c76dd1141",
+    "revision": "40553ed063d3b14f7483",
     "url": "./js/bundle.js"
   },
   {
-    "revision": "31e0a0cfbb42ad4973a7",
+    "revision": "fd6c16ed25f3ccf70a0b",
     "url": "./js/vendor.bundle.js"
   },
   {
-    "revision": "b45318f18b86db69eb8d2561e9219368",
-    "url": "./assets/images/letters/character_rus_2.json"
+    "revision": "7ebc564266f777a0019f7471dc7682dc",
+    "url": "./assets/images/letters/character_rus_3.json"
   },
   {
     "revision": "4b191881072b32741315395b61944d4f",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "./assets/images/letters/character_rus_19.json"
   },
   {
-    "revision": "ba77c92b32b078318136951bfb333743",
+    "revision": "8d4bb6088e069eea9cd89082b93d5198",
     "url": "./index.html"
   },
   {
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "./assets/sounds/sprite.m4a"
   },
   {
-    "revision": "07fd57927d901bbc02d1edfc68abe8ab",
-    "url": "./assets/images/images/ball.png"
-  },
-  {
     "revision": "72074026a5efba56d0edc53f6a52d125",
     "url": "./assets/images/images/baraban.png"
+  },
+  {
+    "revision": "07fd57927d901bbc02d1edfc68abe8ab",
+    "url": "./assets/images/images/ball.png"
   },
   {
     "revision": "c55b23e6a4aec981a48420745cf0f08d",
