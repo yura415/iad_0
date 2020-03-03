@@ -1,0 +1,22 @@
+{
+  "urls": [
+    "assets/sounds/sprite.ogg",
+    "assets/sounds/sprite.m4a",
+    "assets/sounds/sprite.mp3",
+    "assets/sounds/sprite.ac3"
+  ],
+  "sprite": {
+    "01_page_flip": [
+      0,
+      661.9954648526077
+    ],
+    "35_brush_paint": [
+      2000,
+      288.8435374149658
+    ],
+    "ad_start": [
+      4000,
+      419.99999999999994
+    ]
+  }
+}

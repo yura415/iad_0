@@ -1,0 +1,76 @@
+
+character_rus_2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1_sleep/mouth_sleep1
+  rotate: false
+  xy: 1086, 68
+  size: 39, 85
+  orig: 39, 85
+  offset: 0, 0
+  index: -1
+images/1_sleep/mouth_sleep2
+  rotate: false
+  xy: 1441, 334
+  size: 206, 133
+  orig: 206, 133
+  offset: 0, 0
+  index: -1
+images/2_sleep/eyes_sleep
+  rotate: false
+  xy: 1086, 292
+  size: 353, 175
+  orig: 353, 175
+  offset: 0, 0
+  index: -1
+images/constant_color
+  rotate: false
+  xy: 1441, 300
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+images/rus_letters/01/brows
+  rotate: false
+  xy: 2, 2
+  size: 222, 49
+  orig: 222, 49
+  offset: 0, 0
+  index: -1
+images/rus_letters/02/body
+  rotate: true
+  xy: 551, 67
+  size: 400, 533
+  orig: 400, 533
+  offset: 0, 0
+  index: -1
+images/rus_letters/02/eyeballs
+  rotate: false
+  xy: 1086, 155
+  size: 224, 135
+  orig: 224, 135
+  offset: 0, 0
+  index: -1
+images/rus_letters/02/eyes
+  rotate: false
+  xy: 1649, 370
+  size: 180, 97
+  orig: 180, 97
+  offset: 0, 0
+  index: -1
+images/rus_letters/02/mouth
+  rotate: false
+  xy: 1312, 188
+  size: 111, 102
+  orig: 111, 102
+  offset: 0, 0
+  index: -1
+images/rus_letters_sleep/02/body
+  rotate: true
+  xy: 2, 53
+  size: 414, 547
+  orig: 414, 547
+  offset: 0, 0
+  index: -1
